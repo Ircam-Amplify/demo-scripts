@@ -23,10 +23,6 @@ parser.add_argument('-i', '--input', type=str,
                     help="Input audio data (file or url)",
                     default="")
 
-parser.add_argument('-a', '--api', type=str,
-                    help="Define which API to use",
-                    default="")
-
 args = parser.parse_args()
 local_file = args.input
 
