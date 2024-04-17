@@ -9,8 +9,8 @@ from pathlib import Path
 # Add your API credentials HERE
 # ---------------------------------------------
 
-client_id = ""
-client_secret = ""
+client_id = "<YOUR_CLIENT_ID>"
+client_secret = "<YOUR_CLIENT_SECRET>"
 
 # ---------------------------------------------
 # Parse args to send file
