@@ -1,3 +1,5 @@
+<img src="assets/e8360eee2dbe56ceea4b893f917317a50597ba8f.png" title="" alt="Logo_IRCAMIO_B_01.png" data-align="center">
+
 # Ircamamplify.io demo scripts
 
 Try out ircamamplify.io APIs with this set of easy to use scripts. All you need is some audio files
