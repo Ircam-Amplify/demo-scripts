@@ -6,9 +6,19 @@ Try out ircamamplify.io APIs with this set of easy to use scripts. All you need 
 
 we've added a few simple to run examples of our beloved APIs to run quickly against your own account.
 
+You can test:
+
+- [Music Tagger](https://docs.ircamamplify.io/api#tag/Music-Tagger)
+
+- [Ai Detector](https://docs.ircamamplify.io/api#tag/AI-Detector)
+
+- [Quality Check](https://docs.ircamamplify.io/api#tag/Quality-Check)
+
 ## Getting started
 
-Simply:
+![credentials.gif](/Users/romainsimiand/repositories/demo-scripts/medias/credentials.gif)
+
+
 
 - go to https://app.ircamamplify.io/ and create an account if you haven't already
 
