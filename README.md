@@ -37,3 +37,9 @@ In order to help you test our AI Generated Detector API, we've included a `/medi
 To use this file, simply run the following command
 
 `python3 samplecode_aiDetector.py -i medias/aiGen1.wav`
+
+
+
+
+
+![terminal-demo.gif](assets/1d1ae852a0c85688d5fc7d209bb277ea14615948.gif)
