@@ -16,7 +16,7 @@ You can test:
 
 ## Getting started
 
-![credentials.gif](/Users/romainsimiand/repositories/demo-scripts/medias/credentials.gif)
+![](/Users/romainsimiand/repositories/demo-scripts/medias/credentials.gif)
 
 
 
