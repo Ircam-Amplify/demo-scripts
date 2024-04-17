@@ -16,7 +16,7 @@ You can test:
 
 ## Getting started
 
-![](/Users/romainsimiand/repositories/demo-scripts/medias/credentials.gif)
+![credentials.gif](assets/016789aae9bfeb8073a8e8fbb1f05b1599b9c03f.gif)
 
 
 
@@ -31,7 +31,6 @@ You can test:
 ## How to use AI Detector
 
 In order to help you test our AI Generated Detector API, we've included a `/medias` folder containing **one** simple audio file.
-
 
 To use this file, simply run the following command
 
